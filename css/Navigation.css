@@ -1,0 +1,103 @@
+
+
+
+
+.navbar {
+  position: absolute;
+  top: 10;
+  width: 99%;
+  margin: 20 auto;
+  z-index: 110 !important;
+  background: white !important;
+  opacity: 22;
+display: block;
+  
+}
+
+
+
+.phone-btn-call {
+  padding: 73px;
+  padding-top:20px; 
+  margin-bottom: 660px;
+}
+
+.navLink {
+  color: #16460C !important;
+  font-weight: bolder !important;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+   color: #16460C;
+ 
+}
+
+.navLink:hover {
+      font-size: larger;
+      -ms-text-shadow: 0px 0px grey;
+       color: #16460C !important;
+      text-shadow: 0px 0px grey;
+  }
+.navLink a:hover {
+      font-size: larger;
+      -ms-text-shadow: 0px 0px grey;
+       color: #16460C !important;
+      text-shadow: 0px 0px grey;
+      
+  }
+
+.active {
+    color: white !important;
+
+
+    
+}
+
+.active a{
+   background-color: #16460C !important;
+   color: white !important;
+   
+ 
+}
+
+/*  new ------------------------*/
+header[role="banner"] #logo-main {
+  display: block;
+  margin: 240px auto;
+
+}
+#navbar-primary.navbar-default {
+  background: transparent;
+  border-bottom: 1px solid #333333;
+  display: block;
+
+}
+#navbar-primary.navbar-default .navbar-nav {
+  width: 100%;
+  text-align: center;
+}
+#navbar-primary.navbar-default .navbar-nav > li {
+  display: inline-block;
+  float: none;
+}
+#navbar-primary.navbar-default .navbar-nav > li > a {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.banner {
+  page-break-after: auto;
+  padding-bottom: 50px;
+  padding: 100px;
+}
+
+
+.active a:hover{
+   background-color: #16460C !important;
+   color: white !important;
+ 
+}
+
+.phone-btn-call {
+  padding-bottom: 500px;
+  color: red;
+}
