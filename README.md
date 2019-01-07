@@ -1,0 +1,1 @@
+# manormotel.com
